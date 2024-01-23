@@ -7,6 +7,10 @@ import csv
 from datetime import datetime
 
 
+# Poprawność zadań: 10.5/11
+# Dodatki: 2/2
+# Znormalizowane: 0,9615384615
+
 def Fib_number(n = 0):
 
     if n == 0:
